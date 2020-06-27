@@ -1,19 +1,14 @@
 ---
-title: Thiago Costa
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/thiago-costa.jpg
+title: Muyidon
+bio: "My name is Omisakin Muyiwa, but mostly called Muyidon. A data analyst \n"
+avatar: "/images/thiago-costa.jpg"
 featured: false
 social:
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: Instagram
+  url: https://instagram.com/muyidon
+- title: github
+  url: https://github.com/muyidon
+- title: github
+  url: https://github.com
+
 ---
