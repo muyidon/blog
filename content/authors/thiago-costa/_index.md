@@ -8,7 +8,7 @@ social:
   url: https://instagram.com/muyidon
 - title: github
   url: https://github.com/muyidon
-- title: github
-  url: https://github.com
+- title: medium
+  url: https://medium.com/muyidon
 
 ---
